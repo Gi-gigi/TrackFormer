@@ -6,10 +6,10 @@ Recent tiny ball tracking methods based on deep neural networks have significant
 
 ## Benchmark
 <!-- ![The framework of our proposed Benchmark Dataset---LaTBT](https://github.com/Gi-gigi/TrackFormer/blob/main/Figs/Figure3.jpg) -->
-**The Benchmark Dataset are available at [LaTBT](https://drive.google.com/file/d/1UM8Lg7fzoQK822b2itSl-p1gWvTDfBvB/view?usp=sharing) (Example)**
+** *Note*:The Benchmark Dataset are available at [LaTBT](https://drive.google.com/file/d/1UM8Lg7fzoQK822b2itSl-p1gWvTDfBvB/view?usp=sharing) (Example)**
 
 ## Baseline
 <!-- ![The framework of our proposed Baseline Tracking Network---TrackFormer](https://github.com/Gi-gigi/TrackFormer/blob/main/Figs/Figure2.jpg) -->
-**Note: The Code will be released in the soon.**
+** *Note*: The Code will be released in the soon.**
 
 ## Visual Results

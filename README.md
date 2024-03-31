@@ -9,6 +9,4 @@ Recent tiny ball tracking methods based on deep neural networks have significant
 
 
 ## Baseline
-The framework of our proposed tiny ball tracking network TrackFormer
-
-
+![The framework of our proposed Baseline Tracking Network---TrackFormer]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/Gi-gigi/TrackFormer/blob/main/Figs/Figure2.jpg))

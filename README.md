@@ -32,10 +32,13 @@ https://github.com/Gi-gigi/TrackFormer/assets/49682456/a4144b86-9af2-437a-b40c-2
 https://github.com/Gi-gigi/TrackFormer/assets/49682456/9e6d052c-8d93-4288-a340-30c972e4dbd9
 
 
+### Amateur Game Test
+https://github.com/Gi-gigi/TrackFormer/assets/49682456/9236e713-ee9e-4237-886b-df8929302f9d
+
+https://github.com/Gi-gigi/TrackFormer/assets/49682456/853c2462-d5d1-404e-9539-f2e838372a8e
 
 
-
-
+### Other Game Test
 
 
 
